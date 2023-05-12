@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaldi:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois&display=swap');
+body {
+background-color:#000A25;
+}
+.card {
+
+    position: absolute;
+    width: 328px;
+    height: 601px;
+    left: 542px;
+    top: 211px;
+    margin: 0px auto;
+    text-align: center;
+
+}
+
+    
+ 
+
